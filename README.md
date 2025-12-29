@@ -1,6 +1,4 @@
-# "Microservices with Go" course project
-
-This is the starter code for the "Microservices with Go" project.
+# "Microservices with Go"
 
 ## Project overview
 This project involved building the backend microservices system for an Uber style ride sharing application from the ground up, using Go, Docker, and Kubernetes.
